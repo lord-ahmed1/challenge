@@ -1,2 +1,0 @@
-# challenge
-solving a challenge
